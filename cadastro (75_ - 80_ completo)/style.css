@@ -1,0 +1,50 @@
+body    {
+    background: #0c0647;
+background: radial-gradient(circle, rgba(12, 6, 71, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(39, 170, 196, 1) 100%);
+}
+
+input   {
+    text-align: center;
+}
+
+.bloco {
+    display: flexbox;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 100px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    background-color:  lightskyblue;
+}
+
+.corpo  {
+    background-color:gray;
+    color: black;
+    text-align: center;
+    background: #00aef2;
+    background: radial-gradient(circle, rgba(0, 174, 242, 1) 0%, rgba(56, 146, 176, 1) 51%, rgba(26, 25, 17, 1) 100%);
+}
+
+#erro   {
+    color:red;
+}
+
+a   {
+    text-decoration: none;
+}
+
+button:hover {
+    background-color: grey;
+    color: black;
+    padding: 2px;
+}
+
+h1  {
+    font-size: 40px;
+}
+
+h2  {
+    font-size: 30px;
+}
